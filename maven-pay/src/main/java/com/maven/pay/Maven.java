@@ -14,17 +14,7 @@ package com.maven.pay;
 public interface Maven {
 
     public static void main(String[] args) {
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git commit ====================");
-        System.out.println("==================== maven git end ====================");
-
-
-
-
+        System.out.println("cherry pick");
+        System.out.println("second cherry pick");
     }
 }
