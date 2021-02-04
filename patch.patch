@@ -1,0 +1,15 @@
+Index: maven-pay/src/main/java/com/maven/pay/Maven.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- maven-pay/src/main/java/com/maven/pay/Maven.java	(revision b70f6c09b2b908e28ef1c176a4f59ec3fdd9a963)
++++ maven-pay/src/main/java/com/maven/pay/Maven.java	(date 1612419283000)
+@@ -15,6 +15,7 @@
+ 
+     public static void main(String[] args) {
+         System.out.println("==================== maven git commit ====================");
++        System.out.println("==================== maven git end ====================");
+ 
+     }
+ }
