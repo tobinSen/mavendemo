@@ -10,6 +10,13 @@ package com.maven.pay;
  * 2.soft: 回退到某个版本，只回退了commit的信息，不会恢复到index file一级，若要提交重新commit。
  *
  * 3.Hard:彻底回退到某个版本，本地的源码也会变为上一个版本的内容。
+ *
+ *
+ *
+ * 1、回滚
+ * 2、tag
+ * 3、补丁 文件还是面板
+ * 4、cherry pick 摘樱桃
  */
 public interface Maven {
 
