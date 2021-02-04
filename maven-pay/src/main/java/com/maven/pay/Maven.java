@@ -15,5 +15,6 @@ public interface Maven {
 
     public static void main(String[] args) {
         System.out.println("cherry pick");
+        System.out.println("second cherry pick");
     }
 }
