@@ -17,6 +17,8 @@ package com.maven.pay;
  * 2、tag
  * 3、补丁 文件还是面板
  * 4、cherry pick 摘樱桃  部分功能进行合并，而非merge全部合并
+ *      1、切换到需要记性同步的分支
+ *      2、通过Git history 进行cherry pick 进行合并操作
  *
  * sss
  */
