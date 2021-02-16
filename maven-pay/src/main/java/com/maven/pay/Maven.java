@@ -16,7 +16,7 @@ package com.maven.pay;
  * 1、回滚
  * 2、tag
  * 3、补丁 文件还是面板
- * 4、cherry pick 摘樱桃
+ * 4、cherry pick 摘樱桃  部分功能进行合并，而非merge全部合并
  *
  * sss
  */
